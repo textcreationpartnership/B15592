@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise of metallica. Bvt not that which was published by Mr. Simon Stvrtevant vpon his patent, which is now by order cancelled and made voyd, by reason of his standing out-lawed at the time of the grant, and so still continuing, and his neglect, and not performance of the workes. / Wherevpon priviledge, by patent, is granted by the Kings Most Excellent Maiesty to Iohn Rovenzon, Esquire, for the making of iron and other mettals and materials with seacole, pit-cole, &amp;c. for one and thirty yeares ; according to which patent and direction therein, this treatise, composed by the same Iohn Rovenzon, is published in print before the end of Easter tearme, viz. the 15 of May. 1613. And containeth a briefe explanation, demonstration, or discouery of the inuentions priuiledged, and the means, instruments, engins, furnaces, &amp;c, with the materials, things, and workes to be made by the said fewels. The charge of an iron worke with sea-cole, is set downe in the latter end of this booke.</title>
+            <author>Rovenzon, John.</author>
+         </titleStmt>
+         <extent>Approx. 36KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15592</idno><idno type="EEBO-CITATION">23962606</idno>
+  <idno type="VID">177145</idno>
+  <idno type="EEBO-PROQUEST">2240939815</idno>
+  <idno type="STC">STC 21355</idno>
+  <idno type="STC">ESTC S104560</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177145)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 858:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise of metallica. Bvt not that which was published by Mr. Simon Stvrtevant vpon his patent, which is now by order cancelled and made voyd, by reason of his standing out-lawed at the time of the grant, and so still continuing, and his neglect, and not performance of the workes. / Wherevpon priviledge, by patent, is granted by the Kings Most Excellent Maiesty to Iohn Rovenzon, Esquire, for the making of iron and other mettals and materials with seacole, pit-cole, &amp;c. for one and thirty yeares ; according to which patent and direction therein, this treatise, composed by the same Iohn Rovenzon, is published in print before the end of Easter tearme, viz. the 15 of May. 1613. And containeth a briefe explanation, demonstration, or discouery of the inuentions priuiledged, and the means, instruments, engins, furnaces, &amp;c, with the materials, things, and workes to be made by the said fewels. The charge of an iron worke with sea-cole, is set downe in the latter end of this booke.</title>
+                  <author>Rovenzon, John.</author>
+               </titleStmt>
+               <extent>[30] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Thorp.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1613.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Iron --  Metallurgy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177145:1"/>
+            <pb facs="tcp:177145:1"/>
+            <p>A TREATISE OF METALLICA.</p>
+            <p>BVT NOT THAT WHICH WAS published by M<seg rend="sup">r</seg>. SIMON STVRTEVANT vpon his Patent, which is now by order cancelled and made voyd, by reason of his standing out-lawed at the time of the grant, and so still continuing, <hi>and his neglect, and not performance of the workes.</hi>
+            </p>
+            <p>WHEREVPON PRIVILEDGE, BY Patent, is granted by the Kings most excellent Ma<g ref="char:EOLhyphen"/>iesty, to IOHN RO<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>IN<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ON, Esquire, for the making of Iron, and other Mettals and Materials with Sea<g ref="char:EOLhyphen"/>cole, Pit-cole, &amp;c. for one and thirty yeares. Accor<g ref="char:EOLhyphen"/>ding to which Patent and direction therein, this Treatise, composed by the same IOHN RO<g ref="char:EOLhyphen"/>VENZON, is published in Print before the end of Easter Tearme, <hi>viz.</hi> the 15 of May. 1613.</p>
+            <p>And containeth a briefe Explanation, Demonstration, or Dis<g ref="char:EOLhyphen"/>couery of the Inuentions priuiledged, and the meanes, Instru<g ref="char:EOLhyphen"/>ments, Engins, Furnaces, &amp;c. with the materials, things, and workes to be made by the said Fewels.</p>
+            <p>The charge of an Iron-worke to worke with Sea-cole, is set downe in the latter end of this Booke.</p>
+            <p>
+               <hi>LONDON.</hi>
+            </p>
+            <p>Printed for THOMAS THORP. 1613.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Cum Priuilegio.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177145:2"/>
+            <pb facs="tcp:177145:2"/>
+            <head>TO THE KINGS MOST EXCELLENT MAIESTY.</head>
+            <opener>
+               <salute>Most dread Soueraigne,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">Y</seg>Our Maiesty hauing</hi> been pleased to grant vn<g ref="char:EOLhyphen"/>to me sole priuiledge for one and thirty yeares by your gracious Letters Patents, to make and worke Iron, other Mettals, and diuers other materials with Sea-cole, and such other fewels: wherein it hath pleased God to blesse my poore inuentions and endeuours, by ef<g ref="char:EOLhyphen"/>fecting those workes which haue beene heretofore worthily attempted by others, though with fruitlesse successe, I held it my duty vpon publication of these inuen<g ref="char:EOLhyphen"/>tions,
+<pb facs="tcp:177145:3"/> to present the same to your Roy<g ref="char:EOLhyphen"/>all view, humbly beseeching your Maiesty to accept them as a neuer-dy<g ref="char:EOLhyphen"/>ing Memoriall of the late most excellent Prince <hi>Henry</hi> your sonne; whose desire of the publique good (besides many par<g ref="char:EOLhyphen"/>ticular fauours which he was pleased to vouchsafe vnto me) was the first motiue and Author to encourage me to make tri<g ref="char:EOLhyphen"/>all, and to accomplish these works, which I hope will proue so profitable to your Maiesty, and so enriching to your King<g ref="char:EOLhyphen"/>domes, as you will neuer haue cause to repent your gracious fauour and priui<g ref="char:EOLhyphen"/>ledge herein bestowed vpon me. The Lord of Heauen and Earth blesse and preserue your Maiesty, your most excel<g ref="char:EOLhyphen"/>lent Queene, and hopefull Royall Issue.</p>
+            <closer>
+               <signed>Your Maiesties most humble and obedient Subiect, IOHN ROVENZON.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177145:3"/>
+            <head>TO THE READER</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not my purpose to commend my Inuentions of making and wor<g ref="char:EOLhyphen"/>king Mettals, and other Materials, and things with Sea-cole, and such other fewels: What I haue perfor<g ref="char:EOLhyphen"/>med herein, in that which hath been held most difficult, by making Iron with Sea-cole, is sufficiently knowne, to the full satisfaction of some iudiciall Iron-masters, Founders, and others experi<g ref="char:EOLhyphen"/>enced in Iron-workes, who haue seene one of my Furnaces, and the workes therein done. Yet am I farre from arrogating all to my owne meere Inuen<g ref="char:EOLhyphen"/>tion: For howsoeuer the maine workes, and the vse of the priuiledged fewels thereabouts, with the Fur<g ref="char:EOLhyphen"/>naces, haue beene deuised and acted by my selfe in the workes of most difficulty; yet many Instruments, operations, and meanes Metallicall, being necessari<g ref="char:EOLhyphen"/>ly to be vsed for the better, more easie, and cheape working and effecting the workes, I do willingly ac<g ref="char:EOLhyphen"/>knowledge to the world, that the conferences and informations of many my good friends, who haue beene desirous to further these workes, and the pri<g ref="char:EOLhyphen"/>uiledge granted by his Maiesty to me, haue added
+<pb facs="tcp:177145:4"/> much to my owne Inuentions, and giuen great light and furtherance, by meanes of diuers new-deuised<g ref="char:EOLhyphen"/>operations, instruments, and Engines: Onely thus much more I thought good to giue notice; That whereas it pleased the late most excellent Prince deceassed, vpon a grant of priuiledge obtained by his meanes for one Maister <hi>Sturteuant,</hi> for the like workes, to commit the trust of making and registring of all Indentures and Conueyances thereabouts, with acquittances vpon all receits of money, or o<g ref="char:EOLhyphen"/>ther profites thereby to Maister <hi>Ferrour</hi> of Graies-Inne, Esquire, his Maiesties seruant, to the end that euery aduenturer, and other that was to receiue be<g ref="char:EOLhyphen"/>nefite thereby, might haue his due without deceit, or diminishment, which was also agreed vnto, and confirmed to Maister <hi>Ferrour,</hi> by grant of Maister <hi>Sturteuant</hi> vnder his hand and seale: which Patent is by reason of the neglect of performance by Mai<g ref="char:EOLhyphen"/>ster <hi>Sturteuant,</hi> and by his standing out-lawed at the time of the Patent granted, and still so continuing, become forfeited, made voyd, and cancelled. And the like priuiledge granted by his Maiesty to me; in regard whereof, and for that Maister <hi>Ferrour</hi> hath beene my chiefe assistant, and aide, to effect these workes, and an eye-witnesse of all my endeuours therin. And besides, I know and am priuy, that it was alwayes the purpose &amp; intention of the late Prince, that vpon my performance of these workes, and obtaining his Maiesties grant of priuiledge there<g ref="char:EOLhyphen"/>vpon, Maister <hi>Ferrour</hi> should make and register all Conueyances and Acquittances that should bee made, by reason of my priuiledge, as he should haue
+<pb facs="tcp:177145:4"/> done, if Maister <hi>Sturteuants</hi> had remained in force: I haue therefore authorized Maister <hi>Ferrour,</hi> accor<g ref="char:EOLhyphen"/>dingly, to make and register the same, giuing hereby knowledge therof to all whom it may concerne; and such as shall be willing, or desirous to aduenture, or deale in, or about any thing concerning ought con<g ref="char:EOLhyphen"/>tained within his Maiesties Letters Patents to mee made and granted, that they may repaire to Maister <hi>Ferrour</hi> at his Chamber in Graies-Inne, or to such other place as he shall appoynt, wherein to write, make, and register the said Conueyances, and Ac<g ref="char:EOLhyphen"/>quittances, where they may know of him, in what sort, and vpon what tearmes and conditions they shall be dealt with. And because some Aduenturers with M<seg rend="sup">r</seg>. <hi>Sturteuant,</hi> by his neglect &amp; forfeiture, were in danger to sustaine losse, such hath been his Maie<g ref="char:EOLhyphen"/>sties Royall care of such as dis-bursed money, to, or with Maister <hi>Sturteuant,</hi> by, or vpon meere aduen<g ref="char:EOLhyphen"/>ture, to forward the workes, that a speciall clause and prouiso is contained in the Indenture of Priui<g ref="char:EOLhyphen"/>ledge, to me made &amp; granted, that I am to performe and vndergoe such order for their recompence and satisfaction, as shall be held fit in equity by his Ma<g ref="char:EOLhyphen"/>iesties Barons of his Highnesse Court of Exche<g ref="char:EOLhyphen"/>quer. But if such Aduenturers shall bee willing to make knowne the manner and truth of their Aduen<g ref="char:EOLhyphen"/>tures, to me, or Maister <hi>Ferrour,</hi> and to treat with vs thereabouts, I doubt not but such conclusion shall bee made, as they shall not need to make any further complaint else-where for their reliefe. To print the whole patent is a worke both tedious and superfluous; only the Inducement of his Maiesties
+<pb facs="tcp:177145:5"/> grant, the tearme of yeares, the effect of the things priuiledged, and the distribution of the profites, is fit to be made knowne; to which end I haue caused an Abstract thereof to bee abridged out of the Indenture, and committed to the Presse, to<g ref="char:EOLhyphen"/>gether with the <hi>Treatise of Metallica,</hi> con<g ref="char:EOLhyphen"/>taining a briefe of the meanes, and manner of the workes inten<g ref="char:EOLhyphen"/>ded. And so I rest.</p>
+            <closer>
+               <signed>Your louing friend, Iohn Rouenzon.</signed>
+            </closer>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:177145:5"/>
+            <head>THE INDVCEMENT to his Maiesties grant, made to Iohn Rouenzon, <hi>Esquire, ab<g ref="char:EOLhyphen"/>stracted</hi> out of the Indenture of Priuiledge.</head>
+            <p>
+               <seg rend="decorInit">V</seg>PON affirmation by <hi>Simon Sturte<g ref="char:EOLhyphen"/>uant,</hi> that hee could performe the workes, and had effected the same in small trials, the same <hi>IOHN RO<g ref="char:EOLhyphen"/>VENZON,</hi> made knowne the same to the late Prince his Highnesse, who thereupon, at the humble suit of the said <hi>Iohn Rouen<g ref="char:EOLhyphen"/>zon,</hi> obtained Letters Patents of priuiledge to Maister <hi>Sturteuant for 31 yeares.</hi>
+            </p>
+            <p>Maister <hi>Sturteuant</hi> oft promised to haue performed the workes long since in the said late Prince his owne view; yet neglected it to his Maiesties hinderance of profite that might in this space haue accrued, by endeuours of others.</p>
+            <p>The late Prince encouraged the said <hi>IOHN ROVEN<g ref="char:EOLhyphen"/>ZON</hi> to make triall if he could performe the workes; who, after many chargeable trials by himselfe and
+<pb facs="tcp:177145:6"/> friends, satisfactorily effected the same. The said Prince hauing beene gratiously pleased to assure him, that vpon such performance, Maister <hi>Sturteuants</hi> Patent should bee deliuered vp, and made voyd; and thereupon like priuiledge should bee granted to the said <hi>Iohn Rouenzon,</hi> according to the effect of his Inuentions.</p>
+            <p>Maister <hi>Sturteuant</hi> stood out-lawed at the time of the grant to him made, and so still continueth, which was found by office, and his Patent seized, and ap<g ref="char:EOLhyphen"/>prized, and deliuered vp to bee cancelled, which is done, his Patent made voyd, and priuiledge granted to the said <hi>Iohn Rouenzon</hi> for one and thirty yeares to worke the workes, &amp;c.</p>
+            <div type="part">
+               <head>The effect of the Priuiledge.</head>
+               <p n="1">1 SOle priuiledge to make Iron and all other Mettals, Ash-mettals, Bugles, Tiles, Potters-ware, Con<g ref="char:EOLhyphen"/>crets of boyleryes, &amp;c. with many other things, with Sea-cole, Pit-cole, Earth-cole, &amp;c. The perticulars of the things are most of them specified hereafter.</p>
+               <p n="2">2 Sole priuiledge for making all Instruments, Engines, and meanes, &amp;c. onely for these workes; which In<g ref="char:EOLhyphen"/>struments, &amp;c. are by this new Inuention conuerted to these workes, hauing beene heretofore vsed in other Sciences, Arts, or Mysteries.</p>
+               <p n="3">3 Sole priuiledge for making all the new-deuised Fur<g ref="char:EOLhyphen"/>naces, Fire-workes, Instruments, Engines, Meanes and Inuentions, either for the working of the workes
+<pb facs="tcp:177145:6"/> with the said fewels, or for any other end or purpose whatsoeuer.</p>
+               <p>These are granted in as absolute manner and forme as they are contained, or mentioned in the Indenture of Priuiledge, or the Schedules thereunto annexed, or shall be more fully demonstrated, specified, or mentio<g ref="char:EOLhyphen"/>ned in the <hi>Treatise of Metallica,</hi> to be printed before the last day of <hi>Easter Tearme;</hi> which Treatise is this present Booke.</p>
+               <div type="section">
+                  <head>The distribution of the Profites.</head>
+                  <p>The cleare yearely Profites are to bee diuided into 33 parts, whereof the said <hi>Iohn Rouenzon</hi> is to pay twelue parts to the Kings Maiesty; fiue parts to the now Prince his Highnesse; one part to the Lord Viscount <hi>Rochester;</hi> one part the said <hi>Iohn Rouenzon</hi> is to keepe to himselfe; And the residue, being foureteene parts, are to be distribu<g ref="char:EOLhyphen"/>ted by his discretion, and by such proportions as hee shall thinke fit, amongst the Aiders, Assisters, Aduenturers, and Owners of the Workes.</p>
+               </div>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:177145:7"/>
+            <pb facs="tcp:177145:7"/>
+            <head>THE TREATISE OF METALLICA.</head>
+            <div type="part">
+               <head>The meanes whereby the workes are to bee performed, containing a briefe of the new-diuised Instruments, Engines, &amp;c.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE INSTRVMENTS, Engines, Deuises, and Meanes for performance of the workes, are either <hi>Preparatory</hi> before the Mettals, or Materials come to be wrought; or <hi>Preparatory</hi> after the Minerals, or fewell drawne; or else are vsed about the workes themselues.</p>
+               <p>
+                  <hi>Preparatory</hi> before the Mettals or Materials come to bee wrought, are the meanes of most easie and least chargeable getting, and acquiring the Ewers, Minerals, Mettals, Materials, or Fewell, which con<g ref="char:EOLhyphen"/>sisteth in speedy digging, in quicke sinking of pits, in speedy remouing of impediments that may hin<g ref="char:EOLhyphen"/>der the digging or sinking of pits; in the easie draw<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:177145:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177145:8"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:177145:9"/> the Ewers, Minerals, or coles out of the pits; and in the speedy and easie lading forth of the water therein, and draining the pits.</p>
+               <p>
+                  <hi>Preparatory,</hi> after the Minerals or Fewell drawne, are the more easie and speedy carriage; and after that, the making, drying, &amp; nealing of the Furnaces, and preparing some of the Materials, by beating, burning, or breaking; and others by tempering and commixing, forming, moulding, and then drying and nealing, before the worke of burning, or melting be performed.</p>
+               <p>The Instruments, Engines, Deuises, and meanes vsed about the workes themselues are expressed a<g ref="char:EOLhyphen"/>mongst the new inuentions hereafter mentioned.</p>
+               <p>There are diuers new-deuised Engines for the drawing of water out of cole-mines, or other mines, which may bee also conuerted to the dra<gap reason="illegible" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ing of fennes, marrish, or moorish grounds; some of which Engines are to go and worke with wheeles, and buc<g ref="char:EOLhyphen"/>kets; others with wheeles and pumpes: other deui<g ref="char:EOLhyphen"/>ses by falles or discents, making waters to mount continually, and may be conuerted to haue passage through pipes, cockes, or conduits, for seruing of Houses, Townes, or Citties: others are new-deuised milnes, to go by labour of men, winde, water, horse, or diuers of them together, to raise Hammers, or Bellowes for Metallicall workes; or to grinde, or breake Metallicall Ewers, and Minerals into pow<g ref="char:EOLhyphen"/>der; and may bee employed to drai<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing of mines, cole-pits, fennes, marrishes, or to such common vses of grinding, fulling, tucking, &amp;c. that other common milnes are vsed for, and will doe as much
+<pb facs="tcp:177145:9"/> with lesse charge, toyle, and expence.</p>
+               <p>A new kinde of artificiall cloth, deuised for Saile-clothes, for the new-deuised winde-milnes, made ei<g ref="char:EOLhyphen"/>ther of linnen, or wollen, or both mixt together, by a new kinde of weauing, which may be transferred to making of a very broad new kind of Wollen cloth, neuer heretofore vsually made or knowne, in any of his Maiesties Dominions, &amp; will serue for curtaines or hangings, mentioned in the Schedules, annexed to the said Indenture of priuiledge, and may bee so dyed in wooll, and wouen by this new kinde of wea<g ref="char:EOLhyphen"/>uing, and dressed on both sides, that it shall bee of two seuerall colours; one colour (as greene, or any other colour) on the one side; and blew, or crimson, or any other colour, on the other side; the cloth be<g ref="char:EOLhyphen"/>ing much finer then any now vsually made, and sa<g ref="char:EOLhyphen"/>uing aboundance of wooll, by vsing lesse in weight, and thereby increasing the number of clothes; and yet as durable, or more durable then the now vsuall broad-clothes, and reasonable cheape to be bought, and are some of them to be made two yards broad, so as a Cloake may be made thereof without seame. The making hereof will set more people (by many) on worke, then the clothing in common vse.</p>
+               <p>There is a new-deuised Engine which will either with Awgors, bore holes, vnder the clampes of Sea-cole, or Pit-cole, or any other Minerall, or with a raping wheele, make such Rigals that they may fall the easier, and with lesse charge, and toyle of men, and will serue for many other vses.</p>
+               <p>Certaine new-deuised Engines for the pulling vp of great rootes of trees, or great stones, with one
+<pb facs="tcp:177145:10"/> mans strength at once: which roots and stones may otherwise hinder the speedy digging and sinking of cole-pits, or mines.</p>
+               <p>A new-deuised Engine, or Instrument for sawing of timber for proppes, or otherwise in mines; or for sawing Free-stones, or Fire-stones, or for Furnaces, which with one mans labour will saw as much as sixe or eight men now vsually saw, and may bee con<g ref="char:EOLhyphen"/>uerted to sawing of boords, or other things, or to raping of Log-wood, Brasill, or other woods for dying▪</p>
+               <p>Diuers new-deuised Turne-barrels, or motions for Turne-barrels, for the easie drawing of coles out of the cole-pits, or other minerals out of mines, and may bee conuerted to vnloding, or raising of any thing of great weight, for Shippes, or for buil<g ref="char:EOLhyphen"/>ding.</p>
+               <p>Certaine new deuises, or engines to ease Carts, and Waines in carriage of Coles, or other minerals, halfe in halfe; and may be conuerted to Coaches, Caroches, and other carriages; so as two horses may draw as much as foure doe vsually: And by this deuice, and engines, with some other additions, three plowes, in light ground, and two plowes in o<g ref="char:EOLhyphen"/>ther ground, may bee made to goe and worke with one man onely, and as few cattell as are now vsed for one plow, ridding twice or thrice as much worke in one day.</p>
+               <p>A new deuise, engine, or meanes for the easie rowing of Barges and Boats, for carriage of Coles, Mettals, or any other thing.</p>
+               <p>A deuice, or engine for the drawing vp such Barges
+<pb facs="tcp:177145:10"/> or Boats through weeres or lockes for their speedier passage and carriage.</p>
+               <p>Certaine new-deuised Carriages, Carts, or Waines, to bee made to goe, or trauell alone, by reason of certaine motions, or scrues to bee vsed by one man; and in some a horse may bee set, onely to turne withall: and these carriages will carry thir<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hundred weight at once, an ordinary pace, and an v<g ref="char:EOLhyphen"/>suall dayes iourney, and may bee conuerted to Coa<g ref="char:EOLhyphen"/>ches, Caroches, and other common carriages.</p>
+               <p>Diuers new-deuised Engines, Instruments, and meanes for the rearing of Hammers or Bellows for Iron-milnes, or workes, or other Metallicall ope<g ref="char:EOLhyphen"/>rations, and may be conuerted to the dressing, row<g ref="char:EOLhyphen"/>ing, and fulling of cloath; and also to the sawing of timber, so as one man may performe as much as many. And some of these engines will make both Bellowes and Hammer to worke at once, and with one and the same engine, and with one mans labour, without winde or water.</p>
+               <p>A new-deuised Engine or Instrument to digge with, which with labour of two men shall performe as much as twenty men, and serueth chiefly for the speedy and easie getting of the fewels of peat, and turfe, and is of excellent vse for the speedy cutting and scouring of riuers.</p>
+               <p>Diuers new-deuised meanes or engines, whereby a breach in any banke, or stoppage, for conueying of water out of cole-pits, or mines, the dambe or poole of any Iron-mill, or other-mill, may be speedily, and easily stopped; and may be conuerted to stoppe any breach in the bankes of any riuers, or sea-bankes</p>
+               <pb facs="tcp:177145:11"/>
+               <p>The Presse and mould and Instruments deuised, or vsed for making of Presse-wares.</p>
+               <p>Diuers new-deuised fire-workes, instruments, or kilnes to put fire into, which are to be made of Iron, or other mettals, or materials, with funnels, or passa<g ref="char:EOLhyphen"/>ges to vent the smoake, are deuised to dry and neale furnaces, before full fire be put therein, and serue al<g ref="char:EOLhyphen"/>so to dry potters ware, before it be burnt; and may bee of excellent vse in ordinary kilnes to dry malt, starch, hops, saffron, or any such thing, with New-ca<g ref="char:EOLhyphen"/>stle sea-cole, or any other sea-cole, or pit-cole; or with any turfe, peat, or flag; so as the malt, or other thing shall be dried exceeding sweet and faire, without sent, taint or touch of the fewell, or any smoake pro<g ref="char:EOLhyphen"/>ceeding there-from.</p>
+               <p>A new-deuised vētible, round, &amp; hollow, with a long spout to be made of some mettall, or potters earth, wherein water being put, and the same placed on a fire, as it heateth, and the water euaporateth by the spout, it maketh a continuall blast to kindle, or in<g ref="char:EOLhyphen"/>crease the fire in furnaces, or fire-workes, and may be conuerted to many other excellent vses; and the same may be so made in seuerall peeces with the top or vpper part remoueable at pleasure, so as the lower part being made to stand on feet, may serue at plea<g ref="char:EOLhyphen"/>sure for a possenet, skellet, or boylatory; and when the top is put on, and well fastened and luted, it may then serue for the ventible to make the blast.</p>
+               <p>For such of the workes as require light to worke by in the night, being distant from the places where the Furnaces are, there is a new-deuised luminary of glasse, or glasses filled with water, &amp; a candle placed
+<pb facs="tcp:177145:11"/> to giue light through it, which giueth a very great light a great distance off, with small charge; and may be conuerted to excellent vse, being placed in high places, in crosse-wayes, and streets of Citties and Townes, to the sauing of lanthorne, and candle<g ref="char:EOLhyphen"/>light, and the auoyding of inconueniences happe<g ref="char:EOLhyphen"/>ning by darknesse.</p>
+            </div>
+            <div type="part">
+               <head>The Description of the Furnaces, and Fire-workes, and Additaments.</head>
+               <p>FVrnaces are either such as are not of diuision, wherein the mettall or materiall, to be melted, or wrought, lyeth together in one place vndiuided: or Furnaces of diuision, wherein the mettall or materi<g ref="char:EOLhyphen"/>al to be melted, or wrought, is kept diuided from the fewell in seuerall places; so as no substance of the fewell, but onely the heate and flame thereof can touch the mettall or materiall.</p>
+               <p>The Furnaces, or Fire-workes of diuision may be made with bellows, or without bellows, as wind-fur<g ref="char:EOLhyphen"/>naces, which are best, and least chargeable.</p>
+               <p>These Furnaces may bee made to haue the flame come vp in the middest, with a Cisterne, or Hearth, wherein the mettall lyeth on all sides encompassing the flame; or else the flame may come vp betwixt two, or more Cisternes or Hearths; or else the flame may come vp on one side of the Hearth, or Cisterne, or on both sides, or in seueral angles, or places, with<g ref="char:EOLhyphen"/>out the Hearthes or Cisternes, at pleasure of the owner.</p>
+               <p>The fewell alwayes lying on grates without the Cisterne or Hearth, through which grates the aire,
+<pb facs="tcp:177145:12"/> or winde gathereth, and so maketh the fire to burne, the Ashes falling through the grates.</p>
+               <p>The Furnaces or Fire-works may be made round, or long, or triangular, or quadrangular, or with more angles, or part circular, or semi-circular, or part angular, or in as many seuerall formes or fashi<g ref="char:EOLhyphen"/>ons as the owner pleaseth; and in euery of them the workes may be wrought, though in some better, or more readily then in others.</p>
+               <p>The Furnaces may be made with one, two, three, or more Cisternes, or Hearthes, to containe the ewers, or mettals to bee melted, or wrought, so as one, two, three, or more Sowes of Iron, or other mettal, may be made to run all out at once, and euery of them of as great or greater weight as any Sowes now ordinarily cast.</p>
+               <p>The Furnaces may bee made either close on the top, with some vent-holes, and so meerely reuerbe<g ref="char:EOLhyphen"/>ratory, the mettals, or materials to bee melted, or wrought lying in the Cisterne or Hearth before it be melted, and is therein melted, and thence run forth.</p>
+               <p>Or else the furnaces may be made with one, or more funels, as it were chimneys on the top, or in the sides, or ends, with grates of free-stone made in the bottōs of those funnels, placed right ouer the Cisternes, or Hearthes: in which funnels the materials, to be mel<g ref="char:EOLhyphen"/>ted, may be put, and the flame and fire shall haue on<g ref="char:EOLhyphen"/>ly passage through those funnels, there melting the materials; so as they fall melted thence into the Ci<g ref="char:EOLhyphen"/>sternes and Hearthes, where they are cleansed, and thence run forth into Sowes.</p>
+               <p>The Furnaces may be made with out-wings, into
+<pb facs="tcp:177145:12"/> which the flame may passe by vent-holes, or without such out-wings. These out-wings may serue to roast the Ewre, or for many other purposes.</p>
+               <p>The Furnaces may be made with conuenient pla<g ref="char:EOLhyphen"/>ces therein for the Finery and Chaffery; so as one &amp; the same furnace, with one and the same charge of fire, may serue both to melt, cleanse, and fine the met<g ref="char:EOLhyphen"/>tals, and to do all the works at once, &amp; in one place, that are now done in seuerall places, by furnace, Fi<g ref="char:EOLhyphen"/>nery, and Chaffery; and may bee set vp close at the mine, with an engine to raise the hammer, &amp;c. with one mans labour, there to be vsed without trouble of carriage, and without the charge of any water<g ref="char:EOLhyphen"/>milne.</p>
+               <p>The Furnaces may be made great and fixt for grea<g ref="char:EOLhyphen"/>ter works; or small and moueable, for smaller works, and tryals; and by conueying, circling, or twining pipes of mettal, or burnt earth, through any of them, through which pipes water may haue passage, the one end thereof beeing fastened on a cocke or con<g ref="char:EOLhyphen"/>duit, and the other end kept stopt with a cocke, or o<g ref="char:EOLhyphen"/>therwise, and opened at pleasure. It may be made to run hot water continually, or so long as the party pleaseth to vse it; and then being remoued, the maine cocke or conduit may run cold water againe. All which may be performed with far lesse charge then is now vsed in heating of caldrons, kettles, or recei<g ref="char:EOLhyphen"/>uers of water by Felt-makers, Launderers, or any o<g ref="char:EOLhyphen"/>thers.</p>
+               <p>One and the same furnace may be so contriued and made, as it may do all the workes Metallicall of bur<g ref="char:EOLhyphen"/>ning, melting, fining, &amp;c. the Ewer or Mettall: And
+<pb facs="tcp:177145:13"/> also the worke of any boylery, to gather the concret thereof, or for any other purpose; and also to make a cocke, or conduit run hot water; and also to make Bugles, China worke, and glasse-worke therin. And to bake and burne potters-ware, and other burnt<g ref="char:EOLhyphen"/>earthes, or as many of those seuerall workes as the owner pleaseth to be done at one and the same time, with one and the same fire.</p>
+               <p>All boylatories of things liquid, and all kilnes to dry Malt, or other things, &amp; all clampes or kilnes to burne tiles, or potters-ware, or any thing of burnt earth (except onely where New-castle Sea-cole is intermixt in burning of brickes) are fire-workes of diuision.</p>
+               <p>The said mettals of Iron, &amp;c. may bee also made with the said fewels in common Blomeries, Fineries, and Chafferies, but much better in Blomeries, Fine<g ref="char:EOLhyphen"/>ries and Chafferies of deuision, which are of new in<g ref="char:EOLhyphen"/>uention, not yet vsually vsed about the said workes, wherein the materials, to bee melted or wrought, may be kept diuided, from touch of the fewels.</p>
+               <p>Certaine new deuises in framing of chimneys, and other things thereabouts, for drying of earthen ves<g ref="char:EOLhyphen"/>sels, before they be burnt, and for drying of concrets made by boyleries; which deuises may be transferred to common chimneys, whereby halfe the fewel, now spent therein, may be saued.</p>
+               <p>Certaine new deuised vessels, or caldrons, made of wood, or mettall, or both, for boyling of liquors, or wort for Brewers, or others.</p>
+               <p>There are certaine Fluxes, and Additaments for the speedier and more perfect melting, separating,
+<pb facs="tcp:177145:13"/> and purifying of Iron, and other mettals from their slagge, drosse, and cyndar; as transparent or glassy stones, or sand, Criso<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all, or Borax, gall of glasse, glasse beaten to powder; and for small tryals of Tyn, or Lead, Soap, or Wax, or some fatty substance, are propper Additraments; and Lead it selfe is fit for se<g ref="char:EOLhyphen"/>parating of other mettals: The slagge of former melted mettals, as the slagge of Iron to melt and purifiy Iron ouer, for which also Lyme and ashes of wood, and dust of char-coale, are vsed; and for small trials, Arsnicke, Sulpher, Vitriol, Tartar, Salt<g ref="char:EOLhyphen"/>gemme, Salt-niter, and Stybium, some of which may be also vsed in greater workes, for which also Salt-peter is by new inuention deuised to bee made cheape, and in one place continually, without trou<g ref="char:EOLhyphen"/>ble of digging of houses, or Stables, and may bee conuerted to make gun-powder in aboundance.</p>
+               <p>There is also some speciall new deuised Additra<g ref="char:EOLhyphen"/>ments, for the more speedy and perfect separating &amp; purifying of Iron, from the slag, drosse, and cynder, in making of Iron with Sea-coale, or other the priuile<g ref="char:EOLhyphen"/>ged Fewels; which special Additraments are specifi<g ref="char:EOLhyphen"/>ed and declared in writing, with the descriptions, or models of diuers engins, instruments, deuises, and inuentions drawne in parchment, and remaining in custody of the fore-named <hi>Iohn Ferrour.</hi>
+               </p>
+               <p>A new deuised stoue, for the opening and better dressing of Wooll, with a new kind of dressing, and spinning thereof, for a new kind of cloathing.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177145:14"/>
+               <head>The Materials and things to bee melted, made, or wrought, by the Fewels of Sea-cole, &amp;c.</head>
+               <p>ALL Ewers, or Oares, and mettals of Iron, Steele, Brasse, Copper, Lattin, Tyn, Pewter, Lead, Alchimy-ware, Bel-mettals, Candlesticke<g ref="char:EOLhyphen"/>mettals, and all other Mettals and Mynerals whatso<g ref="char:EOLhyphen"/>euer, either simple, or commixt.</p>
+               <p>All Ash-mettals, Sand-mettals, Bugles, Ammels, and all other things whatsoeuer, simple, or commixt, to be melted, made, or wrought, or conuerted into any stony, or glassy substance.</p>
+               <p>All burnt earthes, earthen vessels, stone-pots, earthen-pots, Potters-ware, Tobacco-pipes, pipes of earth, cast Iron, or other Mettall, or stuffe what<g ref="char:EOLhyphen"/>soeuer to conuey water in; pauing-stones, Mantle<g ref="char:EOLhyphen"/>trees for chimneyes, pillers, monions for windowes, or other ornaments of burnt earth, artificiall marble, or things of burnt earth like marble; burnt earth like free-stone, or other stone for building, or other vses; tiles, way-earthes, lime, plaisters, the making, moulding, perfecting and burning of cer<g ref="char:EOLhyphen"/>taine white earthen vessels, painted with diuers co<g ref="char:EOLhyphen"/>lours, commonly called by the name, or names of <hi>Fatanza</hi> vessel; &amp; a certaine earthen vessell of Iasper<g ref="char:EOLhyphen"/>colour, or such as are brought out of the <hi>Straights, Italy, Spaine, France, Germany,</hi> and the low Countries, together with pauing-tiles, chymney-peeces, mo<g ref="char:EOLhyphen"/>nions for windowes, and such other things framed and fashioned of earth, not vsually heretofore made in any of his Maiesties Dominions or Countries:
+<pb facs="tcp:177145:14"/> and all things whatsoeuer, made, or to bee made of earth, and then burnt, or hardened.</p>
+               <p>All kinde of Presse-ware, to be made by presse and mould, or either of them, and framed or fashioned of earth, or other stuffe or substance.</p>
+               <p>Bricke may be made with pit-cole, or stone-cole, or any other of the priuiledged fewels, better then with New-castle sea-cole, without danger of that losse which oft happeneth by New-castle cole; which, as it is now vsed, doth many times spoyle much of the bricke-clampe by making it run toge<g ref="char:EOLhyphen"/>ther in a lumpe.</p>
+               <p>All boyleries, and hot waters, and all concrets ga<g ref="char:EOLhyphen"/>thered by boyleries, all Copperosses, Allomes, Salt<g ref="char:EOLhyphen"/>peter to be made in one place continually, without trouble of digging houses, or stables, being a new inuention. Sugers, Rosins, Gums, Turpentines, Waxes, Tallowes, Sopes, the making, boyling, and perfecting of certaine Sopes, called white Sopes, hard Sope, sweet Sope, and Castle-sope, not vsually heretofore made in any of his Maiesties Dominions or Countries Oyles, distilled waters, commixtures, and all other boyleries, or dicoctions whatsoeuer, heretofore boiled or heated vsually with wood fuell, or char-cole.</p>
+               <p>Conuerting, or making of Iron into Steele, or Copper.</p>
+               <p>The burning of any weedes, or hearbes, or other thing into ashes; or any stony, or glassy substance for Dyers or Glasse-makers.</p>
+               <p>Extractions of siluer out of lead, or lead Ewre, or either of them, Conuerting of lead, or lead Ewre in<g ref="char:EOLhyphen"/>to
+<pb facs="tcp:177145:15"/> litarge, or into white, or red lead, or into Caeruse.</p>
+               <p>A new-deuised stuffe wherewith ships, boates, or o<g ref="char:EOLhyphen"/>ther vessels may be trimmed as cheape as now they are; and shall endure ten yeares together water-tite, without new-dressing, or hurt by mosse, or wormes, so as they run not on grauelly shelues; and will bee exceeding good to preserue all timber-workes from wormes and rotting, a small example, or parcell of the stuffe remaineth in custody of M<seg rend="sup">r</seg>. <hi>Ferrour.</hi>
+               </p>
+               <p>A new deuised hard coniealed stuffe, which will make a liquor, or commixture, which will fixe false dying-woods, so as they will endure all cold and wearing trials, and much more; as may appeare by a Certificate made to the right Ho: the Lords of his Maiesties most honourable Priuy Councell, by the Lo: Mayor, and Recorder of <hi>London,</hi> on behalfe, of that friend, by whose information the said <hi>Iohn Ro<g ref="char:EOLhyphen"/>venzon</hi> attained to this inuention: An ensample, or parcell of this coniealed stuffe remaineth in custo<g ref="char:EOLhyphen"/>dy of M. <hi>Ferrour.</hi>
+               </p>
+               <p>All Chymicall works, and operations whatsoeuer hitherto done vsually, by fire of wood, or char<g ref="char:EOLhyphen"/>cole, may by these new inuentions, meanes, instru<g ref="char:EOLhyphen"/>ments, or operations, be made, wrought, or done by fire made with Sea-cole, pit-cole, and other the pri<g ref="char:EOLhyphen"/>uiledged fuels.</p>
+               <p>The Models of all, or most engins, and instru<g ref="char:EOLhyphen"/>ments before mentioned, remaine in the custody of the said M. <hi>Ferrour,</hi> and had bene now expressed in Print, but that the shortnesse of time limited for the Impression hereof will not permit. To expresse the Furnaces by modell is needlesse, in regard that
+<pb facs="tcp:177145:15"/> some of them haue been already set vp by mee the now <hi>Patentee;</hi> and beside, they may be varied into so many seuerall formes and figures, according to the seuerall humors of the owners, as cannot be well ex<g ref="char:EOLhyphen"/>pressed by models.</p>
+            </div>
+            <div type="part">
+               <head>The Charge of an Iron-worke, or Furnace.</head>
+               <p n="1">1 A Reasonable, or conuenient house close by the mine, to set the furnace in, so as carriage of the Ewre shall be therby saued: the charge of that house cannot be great.</p>
+               <p n="2">2 The Furnace it selfe to worke withall (which shal do as much, or more then any Furnaces now vsed with char-cole) may bee set vp in the Country, for lesse then ten pounds charges, if their Fire-stone bee not fetched too farre.</p>
+               <p>Vpon decay of the Furnace in the fire-stone or hearth, the one end of the Furnace may bee pulled downe, and a new fire-stone, or hearth put in, and the Furnace re-edified and built all againe for forty shil<g ref="char:EOLhyphen"/>lings charge, or lesse.</p>
+               <p>The Furnace beeing a winde-furnace (which is best) saueth the charge of the bellowes, and of a milne to make them blow. And the Engine to raise the hammer for the Finery and Chaffery, by helpe of one man, saueth the charge of the milnes for the Finery and Chaffery: and if the Engine, Finery and Chaffery be set vp in the place where the Furnace to make Sow-Iron is, which may well be done; it will saue the charge of infinite carriage of cole, stone, and Sow-Iron.</p>
+               <pb facs="tcp:177145:16"/>
+               <p>The Furnace may be so contriued, that it may serue also for Finery, and Chaffery; so as the Sow-Iron may bee fined at one time, and in one and the same Furnace, where it is made Sow-Iron.</p>
+               <p>After the Furnace commeth to full heate, which will be after 8 or 9 dayes, or fewer, heating and nea<g ref="char:EOLhyphen"/>ling by degrees, euery tun of Sow-Iron will not re<g ref="char:EOLhyphen"/>quire, for the most part, aboue a Tun of pit-cole to be made withall.</p>
+               <p>Whereas an Iron-worke cannot be well set vp, and set on worke, after the vsuall manner, without a 1000 pound, or 1500 pound dis-bursement, and stocke; now, by this new Inuention, an 100 l' stocke will performe as much with Sea<g ref="char:EOLhyphen"/>cole, and the new-deuised Furnaces, hauing a conuenient house to set the Furnace in.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:177145:16"/>
+         </div>
+      </body>
+   </text>
+</TEI>
